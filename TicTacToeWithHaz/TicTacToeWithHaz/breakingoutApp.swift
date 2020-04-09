@@ -2,7 +2,8 @@
 //  breakingoutApp.swift
 //  TicTacToeWithHaz
 //
-//  Created by Sean Jones on 4/9/20.
+//  Created by Jake Haslam on 4/9/20.
+ develop
 //  Copyright © 2020 Sean Jones. All rights reserved.
 //
 
