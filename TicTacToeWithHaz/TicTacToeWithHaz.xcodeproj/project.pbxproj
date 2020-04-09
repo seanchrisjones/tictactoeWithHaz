@@ -13,6 +13,8 @@
 		E9837BEC243E7D0E008B2B94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9837BEA243E7D0E008B2B94 /* Main.storyboard */; };
 		E9837BEE243E7D1E008B2B94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9837BED243E7D1E008B2B94 /* Assets.xcassets */; };
 		E9837BF1243E7D1E008B2B94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9837BEF243E7D1E008B2B94 /* LaunchScreen.storyboard */; };
+		E9837BF9243F9ECF008B2B94 /* Sean.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9837BF8243F9ECF008B2B94 /* Sean.swift */; };
+		E9837BFB243FA206008B2B94 /* breakingoutApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9837BFA243FA206008B2B94 /* breakingoutApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E9837BED243E7D1E008B2B94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9837BF0243E7D1E008B2B94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9837BF2243E7D1E008B2B94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9837BF8243F9ECF008B2B94 /* Sean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sean.swift; sourceTree = "<group>"; };
+		E9837BFA243FA206008B2B94 /* breakingoutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = breakingoutApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				E9837BE4243E7D0E008B2B94 /* AppDelegate.swift */,
 				E9837BE6243E7D0E008B2B94 /* SceneDelegate.swift */,
 				E9837BE8243E7D0E008B2B94 /* ViewController.swift */,
+				E9837BF8243F9ECF008B2B94 /* Sean.swift */,
+				E9837BFA243FA206008B2B94 /* breakingoutApp.swift */,
 				E9837BEA243E7D0E008B2B94 /* Main.storyboard */,
 				E9837BED243E7D1E008B2B94 /* Assets.xcassets */,
 				E9837BEF243E7D1E008B2B94 /* LaunchScreen.storyboard */,
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9837BFB243FA206008B2B94 /* breakingoutApp.swift in Sources */,
+				E9837BF9243F9ECF008B2B94 /* Sean.swift in Sources */,
 				E9837BE9243E7D0E008B2B94 /* ViewController.swift in Sources */,
 				E9837BE5243E7D0E008B2B94 /* AppDelegate.swift in Sources */,
 				E9837BE7243E7D0E008B2B94 /* SceneDelegate.swift in Sources */,
